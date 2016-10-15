@@ -1,0 +1,2 @@
+# IncidentKnowledgeLib
+Record incident details
